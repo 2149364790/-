@@ -1,0 +1,5 @@
+{
+  "name": "FullStack Flow Sim",
+  "description": "An interactive simulator visualizing the data flow between Vue 3, Spring Boot, MyBatis-Plus, and MySQL with JWT authentication.",
+  "requestFramePermissions": []
+}
